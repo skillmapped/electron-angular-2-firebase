@@ -1,0 +1,13 @@
+/node_modules
+/typings
+npm-debug.log
+*.js
+!./main.js
+!webpack.config.js
+*.js.map
+.vscode
+/build
+/src/app/config/firebase.json
+/src/app/main.js
+*.d.ts
+/config.json
